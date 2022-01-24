@@ -1,4 +1,4 @@
-**Docoker with Ionic and Android build tools for the Tainacan mobile App.**
+**Docker with Ionic and Android build tools for the Tainacan mobile App.**
 
 To run this:
 
